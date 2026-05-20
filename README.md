@@ -63,8 +63,8 @@ High-severity site performance issues were being handled via reactive "firefight
 ---
 
 ## 🎨 4. Platform Leverage: Unifying Experiences via SDUI
-**Project:** Server Driven UI (SDUI) Framework Adoption 
-**Key Technologies:** CMS Integration, Swift (iOS), Kotlin (Android), Next.js (Web)
+**Project:** Server Driven UI (SDUI) Framework Adoption  
+**Key Technologies:**  CMS Integration, Swift (iOS), Kotlin (Android), Next.js (Web)
 
 ### The Challenge
 Managing inconsistent user experiences and duplicate engineering effort across diverse mobile and web clients for multiple brands.
@@ -81,8 +81,8 @@ Managing inconsistent user experiences and duplicate engineering effort across d
 ---
 
 ## 💳 5. Unified Payments & AI Innovation: Orchestrating the "BUY" Domain
-**Project:** OneCheckout, PCPay Digital Wallet, and Agentic Ecommerce 
-**Key Technologies:** Global Payments, Forter, Apple/Google Pay, Google Gemini, ChatGPT, UCP
+**Project:** OneCheckout, PCPay Digital Wallet, and Agentic Ecommerce  
+**Key Technologies:**  Global Payments, Forter, Apple/Google Pay, Google Gemini, ChatGPT, UCP
 
 ### The Challenge
 Modernizing the checkout experience for Canada's largest retailer required unifying fragmented payment methods, integrating advanced fraud detection, and exploring the next frontier of conversational commerce.
