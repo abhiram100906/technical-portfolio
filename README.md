@@ -9,7 +9,7 @@ This portfolio contains detailed architectural case studies from my 16+ year car
 
 ## 🏗️ 1. High-Concurrency Resilience: Ensuring $30M+ BFCM Stability
 **Project:** Black Friday Cyber Monday (BFCM) Readiness for Canada's Largest Retailer
-**Key Technologies:** AWS, GCP, OpenTelemetry, Distributed Systems, Performance Testing
+**Key Technologies:** GCP, OpenTelemetry, Distributed Systems, Performance Testing
 
 ### The Challenge
 Ensuring 100% system availability for a multi-billion dollar retail platform during the highest traffic week of the year. Any downtime during BFCM translates to millions in lost revenue and significant brand damage.
@@ -26,8 +26,8 @@ Ensuring 100% system availability for a multi-billion dollar retail platform dur
 ---
 
 ## 💳 2. The Strangler Pivot: Modernizing Global Payments Core
-**Project:** Legacy Monolith to Microservices Transformation at **Visa**
-**Key Technologies:** Java Spring Boot, Kubernetes, AWS, Kafka, .NET, API Gateway
+**Project:**  Legacy Monolith to Microservices Transformation at **Visa**  
+**Key Technologies:**  Java Spring Boot, Kubernetes, AWS, Kafka, .NET, API Gateway
 
 ### The Challenge
 Migrating a mission-critical, monolithic authorization system with strict sub-second latency and zero-downtime requirements.
