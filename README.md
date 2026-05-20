@@ -45,7 +45,7 @@ Migrating a mission-critical, monolithic authorization system with strict sub-se
 ---
 
 ## 📊 3. Systemic Reliability: From Firefighting to Engineering
-**Project:** Shoppers Drug Mart Observability Transformation
+**Project:** Shoppers Drug Mart Observability Transformation  
 **Key Technologies:** OpenTelemetry, SRE Patterns, Self-Service Observability
 
 ### The Challenge
@@ -63,7 +63,7 @@ High-severity site performance issues were being handled via reactive "firefight
 ---
 
 ## 🎨 4. Platform Leverage: Unifying Experiences via SDUI
-**Project:** Server Driven UI (SDUI) Framework Adoption
+**Project:** Server Driven UI (SDUI) Framework Adoption 
 **Key Technologies:** CMS Integration, Swift (iOS), Kotlin (Android), Next.js (Web)
 
 ### The Challenge
@@ -81,7 +81,7 @@ Managing inconsistent user experiences and duplicate engineering effort across d
 ---
 
 ## 💳 5. Unified Payments & AI Innovation: Orchestrating the "BUY" Domain
-**Project:** OneCheckout, PCPay Digital Wallet, and Agentic Ecommerce
+**Project:** OneCheckout, PCPay Digital Wallet, and Agentic Ecommerce 
 **Key Technologies:** Global Payments, Forter, Apple/Google Pay, Google Gemini, ChatGPT, UCP
 
 ### The Challenge
